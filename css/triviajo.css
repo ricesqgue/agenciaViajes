@@ -1,0 +1,33 @@
+body {
+    background-color: #fff;
+    overflow-x: hidden;
+}
+
+header{
+	padding-bottom: 80px;
+}
+
+
+.cuerpo{
+	background-color: rgba(255, 255, 255, 1);
+	min-height: 700px;
+	border-radius: 20px;
+}
+
+.centrado{
+	text-align: center;
+}
+
+footer{
+	height: 90px;
+	background-color: rgba(37, 41, 41, 1);
+	color: #a0a0a0;
+	text-align: center;
+
+}
+
+.social{
+	font-size: 14pt;
+	padding: 5px;
+}
+
