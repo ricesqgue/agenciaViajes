@@ -324,10 +324,21 @@
 	"buffers":
 	[
 		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n	<meta charset=\"UTF-8\">\n	<title>Triviajo </title>\n	<meta name=\"viewport\" content=\"width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0\">\n	<link rel=\"stylesheet\" href=\"css/bootstrap.min.css\">\n	<link rel=\"stylesheet\" href=\"css/triviajo.css\">\n	<link rel=\"stylesheet\" href=\"css/animate.css\">\n	<link rel=\"stylesheet\" href=\"css/icons.css\">\n\n	\n</head>\n<body>\n\n	<header>\n		<nav class=\"navbar navbar-default navbar-fixed-top\" role=\"navigation\">\n			<div class=\"container-fluid\">\n				<!-- Brand and toggle get grouped for better mobile display -->\n				<div class=\"navbar-header\">\n					<button type=\"button\" class=\"navbar-toggle\" data-toggle=\"collapse\" data-target=\".navbar-ex1-collapse\">\n						<span class=\"sr-only\">Menú</span>\n						<span class=\"icon-bar\"></span>\n						<span class=\"icon-bar\"></span>\n						<span class=\"icon-bar\"></span>\n					</button>\n					<a href=\"#\"><img src=\"images/logo.png\" width=\"80px\" alt=\"\"></a>\n					<a class=\"navbar-brand\" href=\"#\"> T R I V I A J O</a>\n\n				</div>\n		\n				<!-- Collect the nav links, forms, and other content for toggling -->\n				<div class=\"collapse navbar-collapse navbar-ex1-collapse\">\n					<ul class=\"nav navbar-nav\">\n						<li class=\"\"><a href=\"#\">Vuelos</a></li>\n						<li><a href=\"#\">Hoteles</a></li>\n						<li><a href=\"#\">Actividades</a></li>\n					</ul>\n					<form class=\"navbar-form navbar-left\" role=\"search\">\n						<div class=\"form-group\">\n							<input type=\"text\" class=\"form-control\" placeholder=\"Buscar...\">\n						</div>\n						<button type=\"submit\" class=\"btn btn-default\">Buscar</button>\n					</form>\n					<ul class=\"nav navbar-nav navbar-right\">\n						<li><a href=\"#\">Version 0.01</a></li>\n\n					</ul>\n				</div><!-- /.navbar-collapse -->\n			</div>\n		</nav>\n	</header>\n	\n	<div class=\"principal\">\n		<div class=\"container-fluid\">\n\n			<div class=\"row\">\n				<div  class=\"col-md-6 col-md-offset-3\">\n					<h1 class='centrado' data-sr=\"move 300px , enter top, over 0.5s, reset\" ><b>Reserva ahora en los mejores lugares</b></h1>\n					<img src=\"images/img2.png\" class=\"img-responsive\" data-sr=\"wait 0.5s, enter left, reset, scale up 20%\" alt=\"\">	\n				</div>\n			</div>\n		</div>\n\n		<br><br><br><br><br><br><br>\n\n		<div class=\"row\" >\n			<div  class=\"col-md-6 col-md-offset-3\">\n				<h1 class='centrado' data-sr=\"move 150px , enter top, over 0.5s, reset\" ><b>Los mejores precios de la web</b></h1>\n				<img src=\"images/img1.png\" class=\"img-responsive\" data-sr=\"wait 0.5s, enter left, reset, scale up 20%\" alt=\"\">\n			</div>\n		</div>\n\n		<br><br><br><br><br><br><br>\n\n		<div class=\"row\" >\n			<div  class=\"col-md-6 col-md-offset-3\">\n				<h1 class='centrado' data-sr=\"move 150px , enter top, over 0.5s, reset\" ><b>Vive las mejores experiencias</b></h1>\n				<img src=\"images/img3.png\" class=\"img-responsive\" data-sr=\"wait 0.5s, enter left, reset, scale up 20%\" alt=\"\">\n			</div>\n		</div>\n		\n		<br><br><br><br><br><br><br>\n\n	</div>\n\n	<footer data-sr=\"enter bottom, move 50px, wait 0.3s, reset\">\n		<div class=\"row\">\n			<div class=\"col-md-2 col-md-offset-5\">\n			<br>\n				<p data-sr=\"enter bottom, move 50px, wait 0.7s, reset\">Copyright Triviajo | Todos los Derechos Reservados ©</p>\n			</div>\n			<div class=\"col-md-4\">\n			<br>\n				<span class=\"icon-twitter social\" data-sr=\"wait 1s, enter top, move 10px, reset\"></span>\n\n				<span class=\"icon-facebook2 social\" data-sr=\"wait 1.3s, enter top, move 10px, reset\"></span>\n\n				<span class=\"icon-instagram social\" data-sr=\"wait 1.6s, enter top, move 10px, reset\"></span>\n\n				<span class=\"icon-whatsapp social\" data-sr=\"wait 1.9s, enter top, move 10px, reset\"></span>\n\n\n			</div>\n			\n		</div>\n	</footer>\n\n\n	<script src=\"js/jquery.js\"></script>\n	<script src=\"js/bootstrap.js\"></script>\n	<script src='js/scrollReveal.min.js'></script>\n    <script>\n\n      var config = {\n        mobile : true\n      }\n\n      window.sr = new scrollReveal(config);\n\n    </script>\n	\n\n\n</body>\n</html>",
 			"file": "index.html",
+			"file_size": 4058,
+			"file_write_time": 131110205532291516,
 			"settings":
 			{
 				"buffer_size": 3931,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "json.php",
+			"settings":
+			{
+				"buffer_size": 10,
 				"line_ending": "Windows"
 			}
 		}
@@ -719,13 +730,13 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
 					"file": "index.html",
-					"semi_transient": true,
+					"semi_transient": false,
 					"settings":
 					{
 						"buffer_size": 3931,
@@ -735,14 +746,43 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								752,
+								752
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "json.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10,
+								10
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
