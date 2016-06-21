@@ -31,3 +31,6 @@ footer{
 	padding: 5px;
 }
 
+.mensajeError{
+	color:red;
+}
