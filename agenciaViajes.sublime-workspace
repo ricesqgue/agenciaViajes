@@ -1,0 +1,1023 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"carga",
+				"cargaTicket2"
+			],
+			[
+				"data",
+				"dataType"
+			],
+			[
+				"MESA",
+				"mesa"
+			],
+			[
+				"car",
+				"cargaTicket"
+			],
+			[
+				"que",
+				"query"
+			],
+			[
+				"m",
+				"mesa"
+			],
+			[
+				"jso",
+				"json_decode"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"prec",
+				"precio"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"ng-f",
+				"ng-if	AngularJS"
+			],
+			[
+				"cosn",
+				"console"
+			],
+			[
+				"n",
+				"n_mesa"
+			],
+			[
+				"aux_",
+				"aux_cant"
+			],
+			[
+				"aux",
+				"aux_idprod"
+			],
+			[
+				"fl",
+				"fl-l	float: left;"
+			],
+			[
+				"pr",
+				"prods"
+			],
+			[
+				"cant",
+				"cantidad"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"mesa",
+				"mesaclk"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"ng-",
+				"ng-click	AngularJS"
+			],
+			[
+				"rese",
+				"resetCantidad"
+			],
+			[
+				"ngcl",
+				"ng-click	AngularJS"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"he",
+				"height	Attr"
+			],
+			[
+				"ng-c",
+				"ng-class	AngularJS"
+			],
+			[
+				"btn-",
+				"btn-success"
+			],
+			[
+				"ng-re",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"css",
+				"css	.css() - multiple"
+			],
+			[
+				"anima",
+				"animate	.animate()"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"mys",
+				"mysql_close"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"num",
+				"numSillas"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"bg",
+				"bgsz	background-size"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"ng-i",
+				"ng-init	AngularJS"
+			],
+			[
+				"ph",
+				"phpcredits"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"read",
+				"ready	$(document).ready"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"border-lef",
+				"border-bottom-left-radius"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"bak",
+				"background-image"
+			],
+			[
+				"ng-r",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"ng",
+				"ng-bind	AngularJS"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"tot",
+				"total"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"li",
+				"lista"
+			],
+			[
+				"sw",
+				"swap_columna"
+			],
+			[
+				"swa",
+				"swap_columna"
+			],
+			[
+				"p",
+				"print_matrix"
+			],
+			[
+				"pa",
+				"pasajeros"
+			],
+			[
+				"ra",
+				"raw_input"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"siz",
+				"resize"
+			],
+			[
+				"bgr",
+				"bgr-n	background-repeat: no-repeat;"
+			],
+			[
+				"borderr",
+				"border-radius"
+			],
+			[
+				"posit",
+				"position"
+			],
+			[
+				"positio",
+				"object-position"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n	<meta charset=\"UTF-8\">\n	<title>Triviajo </title>\n	<meta name=\"viewport\" content=\"width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0\">\n	<link rel=\"stylesheet\" href=\"css/bootstrap.min.css\">\n	<link rel=\"stylesheet\" href=\"css/triviajo.css\">\n	<link rel=\"stylesheet\" href=\"css/animate.css\">\n	<link rel=\"stylesheet\" href=\"css/icons.css\">\n\n	\n</head>\n<body>\n\n	<header>\n		<nav class=\"navbar navbar-default navbar-fixed-top\" role=\"navigation\">\n			<div class=\"container-fluid\">\n				<!-- Brand and toggle get grouped for better mobile display -->\n				<div class=\"navbar-header\">\n					<button type=\"button\" class=\"navbar-toggle\" data-toggle=\"collapse\" data-target=\".navbar-ex1-collapse\">\n						<span class=\"sr-only\">Menú</span>\n						<span class=\"icon-bar\"></span>\n						<span class=\"icon-bar\"></span>\n						<span class=\"icon-bar\"></span>\n					</button>\n					<a href=\"#\"><img src=\"images/logo.png\" width=\"80px\" alt=\"\"></a>\n					<a class=\"navbar-brand\" href=\"#\"> T R I V I A J O</a>\n\n				</div>\n		\n				<!-- Collect the nav links, forms, and other content for toggling -->\n				<div class=\"collapse navbar-collapse navbar-ex1-collapse\">\n					<ul class=\"nav navbar-nav\">\n						<li class=\"\"><a href=\"#\">Vuelos</a></li>\n						<li><a href=\"#\">Hoteles</a></li>\n						<li><a href=\"#\">Actividades</a></li>\n					</ul>\n					<form class=\"navbar-form navbar-left\" role=\"search\">\n						<div class=\"form-group\">\n							<input type=\"text\" class=\"form-control\" placeholder=\"Buscar...\">\n						</div>\n						<button type=\"submit\" class=\"btn btn-default\">Buscar</button>\n					</form>\n					<ul class=\"nav navbar-nav navbar-right\">\n						<li><a href=\"#\">Version 0.01</a></li>\n\n					</ul>\n				</div><!-- /.navbar-collapse -->\n			</div>\n		</nav>\n	</header>\n	\n	<div class=\"principal\">\n		<div class=\"container-fluid\">\n\n			<div class=\"row\">\n				<div  class=\"col-md-6 col-md-offset-3\">\n					<h1 class='centrado' data-sr=\"move 300px , enter top, over 0.5s, reset\" ><b>Reserva ahora en los mejores lugares</b></h1>\n					<img src=\"images/img2.png\" class=\"img-responsive\" data-sr=\"wait 0.5s, enter left, reset, scale up 20%\" alt=\"\">	\n				</div>\n			</div>\n		</div>\n\n		<br><br><br><br><br><br><br>\n\n		<div class=\"row\" >\n			<div  class=\"col-md-6 col-md-offset-3\">\n				<h1 class='centrado' data-sr=\"move 150px , enter top, over 0.5s, reset\" ><b>Los mejores precios de la web</b></h1>\n				<img src=\"images/img1.png\" class=\"img-responsive\" data-sr=\"wait 0.5s, enter left, reset, scale up 20%\" alt=\"\">\n			</div>\n		</div>\n\n		<br><br><br><br><br><br><br>\n\n		<div class=\"row\" >\n			<div  class=\"col-md-6 col-md-offset-3\">\n				<h1 class='centrado' data-sr=\"move 150px , enter top, over 0.5s, reset\" ><b>Vive las mejores experiencias</b></h1>\n				<img src=\"images/img3.png\" class=\"img-responsive\" data-sr=\"wait 0.5s, enter left, reset, scale up 20%\" alt=\"\">\n			</div>\n		</div>\n		\n		<br><br><br><br><br><br><br>\n\n	</div>\n\n	<footer data-sr=\"enter bottom, move 50px, wait 0.3s, reset\">\n		<div class=\"row\">\n			<div class=\"col-md-2 col-md-offset-5\">\n			<br>\n				<p data-sr=\"enter bottom, move 50px, wait 0.7s, reset\">Copyright Triviajo | Todos los Derechos Reservados ©</p>\n			</div>\n			<div class=\"col-md-4\">\n			<br>\n				<span class=\"icon-twitter social\" data-sr=\"wait 1s, enter top, move 10px, reset\"></span>\n\n				<span class=\"icon-facebook2 social\" data-sr=\"wait 1.3s, enter top, move 10px, reset\"></span>\n\n				<span class=\"icon-instagram social\" data-sr=\"wait 1.6s, enter top, move 10px, reset\"></span>\n\n				<span class=\"icon-whatsapp social\" data-sr=\"wait 1.9s, enter top, move 10px, reset\"></span>\n\n\n			</div>\n			\n		</div>\n	</footer>\n\n\n	<script src=\"js/jquery.js\"></script>\n	<script src=\"js/bootstrap.js\"></script>\n	<script src='js/scrollReveal.min.js'></script>\n    <script>\n\n      var config = {\n        mobile : true\n      }\n\n      window.sr = new scrollReveal(config);\n\n    </script>\n	\n\n\n</body>\n</html>",
+			"file": "index.html",
+			"file_size": 4058,
+			"file_write_time": 131110205532291516,
+			"settings":
+			{
+				"buffer_size": 3931,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "json.php",
+			"settings":
+			{
+				"buffer_size": 10,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "c",
+		"selected_items":
+		[
+			[
+				"c",
+				"Toggle Comment"
+			],
+			[
+				"moda",
+				"Snippet: bs3-modal"
+			],
+			[
+				"mod",
+				"Snippet: bs3-modal"
+			],
+			[
+				"COMME",
+				"Toggle Comment"
+			],
+			[
+				"modal",
+				"Snippet: bs3-modal"
+			],
+			[
+				"php",
+				"Snippet: QUnit HTML"
+			],
+			[
+				"rena",
+				"ANF: Rename File"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"liv",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"table",
+				"Snippet: bs3-table-striped"
+			],
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"com",
+				"Toggle Comment"
+			],
+			[
+				"navbo",
+				"Snippet: bs3-navbar-fixed-bottom"
+			],
+			[
+				"co",
+				"Toggle Comment"
+			],
+			[
+				"nav",
+				"Snippet: bs3-navbar-fixed-top"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"themr",
+				"Themr: List themes"
+			],
+			[
+				"them",
+				"Themr: List themes"
+			],
+			[
+				"the",
+				"Themr: List themes"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"reme",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"tabs",
+				"Snippet: bs3-tabs"
+			],
+			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
+				"form",
+				"Snippet: bs3-form"
+			],
+			[
+				"Snippet: ",
+				"Snippet: |json"
+			],
+			[
+				"an",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"liver",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"next ",
+				"Emmet: Next Edit Point"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"starter",
+				"Snippet: bs3-template.starter"
+			],
+			[
+				"start",
+				"Snippet: bs3-template.starter"
+			],
+			[
+				"bs3 her",
+				"Snippet: bs3-table-hover"
+			],
+			[
+				"inde",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"liveRol",
+				"LiveReload: Help"
+			],
+			[
+				"html",
+				"Set Syntax: HTML (Tcl)"
+			]
+		],
+		"width": 454.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"reindent",
+			"toggle_comment",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/agenciaViajes"
+	],
+	"file_history":
+	[
+		"/C/wamp/www/NewRest/up_mesa.php",
+		"/C/wamp/www/NewRest/js/comandas.js",
+		"/C/wamp/www/NewRest/css/comandas.css",
+		"/C/wamp/www/NewRest/css/styles.css",
+		"/C/wamp/www/NewRest/comandas.html",
+		"/C/Users/Mykro/AppData/Local/Temp/Rar$DRa0.117/Game.of.Thrones.S05E08.720p.HDTV.x264-0SEC.srt",
+		"/C/wamp/www/NewRest/ticket.php",
+		"/C/wamp/www/NewRest/productos.php",
+		"/C/wamp/www/NewRest/conn.php",
+		"/C/wamp/www/NewRest/comanda.php",
+		"/C/wamp/www/NewRest/css/promociones.css",
+		"/C/wamp/www/NewRest/calis.php",
+		"/C/wamp/www/NewRest/comanda.phpbk",
+		"/C/wamp/www/NewRest/promociones.html",
+		"/C/wamp/www/NewRest/catego.php",
+		"/C/wamp/www/NewRest/dat.json",
+		"/C/wamp/www/NewRest/mesas.php",
+		"/C/wamp/www/NewRest/alta_comanda.php",
+		"/C/wamp/www/NewRest/especiales.html",
+		"/C/Users/Mykro/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/wamp/www/NewRest/promociones.css",
+		"/C/wamp/bin/apache/apache2.4.9/conf/httpd.conf",
+		"/C/wamp/bin/apache/apache2.4.9/conf/httpd.conf.backup",
+		"/C/wamp/www/NewRest/cocina.html",
+		"/C/wamp/www/NewRest/index.html",
+		"/C/wamp/www/NewRest/css/style.css",
+		"/C/wamp/bin/apache/apache2.4.9/README.txt",
+		"/D/UAA/8°/Interfaces/RestSoft/web/index.jsp",
+		"/C/Users/Mykro/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/UAA/8°/Interfaces/RestSoft/web/css/comandas.css",
+		"/C/wamp/www/NewRest/BD.sql",
+		"/C/wamp/www/testmysql.php",
+		"/C/wamp/www/index.php",
+		"/D/UAA/8°/Interfaces/New Rest/css/comandas.css",
+		"/D/UAA/8°/Interfaces/New Rest/js/calis.html",
+		"/D/UAA/8°/Interfaces/New Rest/js/comandas.js",
+		"/D/UAA/8°/Interfaces/New Rest/js/calis2.html",
+		"/D/UAA/8°/Interfaces/New Rest/css/promociones.css",
+		"/D/UAA/CodeForces/comandas.html",
+		"/D/UAA/CodeForces/profGukiz.py",
+		"/D/UAA/CodeForces/tram.py",
+		"/D/UAA/CodeForces/games.py",
+		"/D/UAA/CodeForces/boyGirl.py",
+		"/D/UAA/CodeForces/word_capitalization.py",
+		"/C/Users/Mykro/AppData/Roaming/Sublime Text 3/Packages/User/Python2.7_cmd.sublime-build",
+		"/D/UAA/CodeForces/davinci.py",
+		"/D/UAA/CodeForces/pruebas.py",
+		"/D/UAA/CodeForces/matrix.py",
+		"/D/UAA/CodeForces/watermelon.py",
+		"/D/UAA/Python/hours2.2.py",
+		"/D/UAA/Python/primero.py",
+		"/D/UAA/Python/condiciones.py",
+		"/C/Program Files/Sublime Text 3/Packages/Python.sublime-package",
+		"/C/Users/Mykro/Downloads/palette.scss",
+		"/D/UAA/8°/Interfaces/New Rest/js/scripts.js",
+		"/D/UAA/8°/Interfaces/RestSoft/web/js/catalogos.js",
+		"/C/Users/Mykro/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/UAA/8°/Interfaces/New Rest/css/style.css",
+		"/D/UAA/8°/Interfaces/New Rest/index.html",
+		"/D/UAA/8°/Interfaces/RestSoft/web/css/catalogos.css",
+		"/D/Unix & develop Advanced techs/ScribdAdiosaPagar.js",
+		"/D/UAA/8°/Interfaces/New Rest/datos.json"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"UPD",
+			"<?",
+			"cargaTicket2",
+			"console",
+			"cargaTicket",
+			".ticket",
+			"btn-ver",
+			"cargaTick",
+			"this.carga",
+			"= this.carga",
+			"=this.carga",
+			"resetean",
+			"this.mesa[",
+			"this.n_mesa",
+			"n_mesa",
+			"id\"",
+			"id",
+			"$$",
+			",",
+			"}",
+			"{",
+			",",
+			"600",
+			"nombre",
+			"id",
+			"nombre",
+			"nombre:",
+			",",
+			"}]",
+			"}",
+			"{",
+			"\"",
+			"query",
+			"	$",
+			"reset",
+			"regre",
+			"resetCantidad",
+			"#bebidas",
+			"#bebida",
+			"bebidas",
+			"bebid",
+			";	",
+			"float",
+			"btn",
+			"#promo",
+			"promo",
+			"comanda",
+			"Directory /",
+			"www",
+			"directory ",
+			"directory /",
+			"directory",
+			"Directory /",
+			"/*\"",
+			"Directory /",
+			"Directory",
+			"      \n",
+			"conf",
+			"httpd.conf",
+			"httpd",
+			"div",
+			"www/",
+			"www/sub",
+			"www/",
+			"require",
+			"deny",
+			"button",
+			";\n",
+			"name",
+			"iguales",
+			"\"  ",
+			"div",
+			"15deg",
+			"3s",
+			"rot",
+			"rotatez",
+			"rotatex",
+			"button",
+			"div"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3931,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								752,
+								752
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "json.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10,
+								10
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 130.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Python2.7_cmd.sublime-build",
+	"project": "agenciaViajes.sublime-project",
+	"replace":
+	{
+		"height": 114.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"php",
+				"ticket.php"
+			],
+			[
+				"tick",
+				"ticket.php"
+			],
+			[
+				"styles",
+				"css\\styles.css"
+			],
+			[
+				"com",
+				"js\\comandas.js"
+			],
+			[
+				"t",
+				"ticket.php"
+			],
+			[
+				"calis",
+				"calis.php"
+			],
+			[
+				"pro",
+				"promociones.html"
+			],
+			[
+				"con",
+				"conn.php"
+			],
+			[
+				"prod",
+				"productos.php"
+			],
+			[
+				"conn",
+				"conn.php"
+			],
+			[
+				"coht",
+				"comandas.html"
+			],
+			[
+				"",
+				"js\\comandas.js"
+			],
+			[
+				"p",
+				"css\\promociones.css"
+			],
+			[
+				"st",
+				"css\\styles.css"
+			],
+			[
+				"es",
+				"especiales.html"
+			],
+			[
+				"mes",
+				"mesas.php"
+			],
+			[
+				"pr",
+				"css\\promociones.css"
+			],
+			[
+				"res",
+				"promociones.css"
+			],
+			[
+				"c",
+				"comandas.html"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"sty",
+				"css\\style.css"
+			],
+			[
+				"co",
+				"js\\comandas.js"
+			],
+			[
+				"coman",
+				"js\\comandas.js"
+			],
+			[
+				"promo",
+				"promociones.html"
+			],
+			[
+				"prom",
+				"css\\promociones.css"
+			],
+			[
+				"style",
+				"css\\style.css"
+			],
+			[
+				"espe",
+				"especiales.html"
+			],
+			[
+				"coma",
+				"css\\comandas.css"
+			],
+			[
+				"js",
+				"js\\comandas.js"
+			],
+			[
+				"cal",
+				"js\\calis.html"
+			],
+			[
+				"promocionesh",
+				"promociones.html"
+			],
+			[
+				"sc",
+				"js\\scripts.js"
+			],
+			[
+				"scr",
+				"js\\scripts.js"
+			],
+			[
+				"s",
+				"css\\style.css"
+			],
+			[
+				"scri",
+				"js\\scripts.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
