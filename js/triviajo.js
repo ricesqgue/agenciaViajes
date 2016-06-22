@@ -44,3 +44,11 @@ function iniciaSesion(){
  	}
 }
 
+//funcion que envia formulario para los webservices
+function llamaWebServices(){
+	$.post('callsWebService.php', $("#formularioPaquete").serialize(), function(respuesta) {
+		/*optional stuff to do after success */
+		alert("hola");
+		console.log(respuesta);
+	},"json");
+}

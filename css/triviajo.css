@@ -34,3 +34,7 @@ footer{
 .mensajeError{
 	color:red;
 }
+
+.nombreCiudad{
+	font-size: 10pt;
+}
