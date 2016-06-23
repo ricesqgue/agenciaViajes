@@ -35,6 +35,22 @@ footer{
 	color:red;
 }
 
-.nombreCiudad{
-	font-size: 10pt;
+.oferta{
+	height: 200px;
+	
+	border-radius: 10px;
+	border-style: solid;
+	border-color: #e7e7e7;
+}
+
+.titulo{
+	text-align: center;
+}
+
+.vueloIda{
+	text-align: left;
+}
+
+.vueloRegreso{
+	text-align: right;
 }

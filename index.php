@@ -28,8 +28,8 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<a href="#"><img src="images/logo.png" width="80px" alt=""></a>
-					<a class="navbar-brand" href="#"> T R I V I A J O</a>
+					<a href="/agenciaViajes/"><img src="images/logo.png" width="80px" alt=""></a>
+					<a class="navbar-brand" href="/agenciaViajes/"> T R I V I A J O</a>
 
 				</div>
 		
@@ -50,6 +50,7 @@
 							<ul class="dropdown-menu">
 								<?php
 									if(isset($_SESSION['nombre'])){
+										echo "<li><a href=''>Mis reservaciones</a></li>";
 										echo "<li><a href='cerrarSesion.php'>Cerrar sesión</a></li>";
 									}
 									else{
@@ -167,11 +168,11 @@
 										<div class="form-group">
 											<label for="Fecha ida" class="control-label col-sm-2">Fecha ida</label>
 											<div class="col-sm-3">				
-												<input type="date" id='fechaIda' name="fechaIda" class="form-control">
+												<input type="text" id='fechaIda' name="fechaIda" class="form-control">
 											</div>
 											<label for="Fecha regreso" class="control-label col-sm-3">Fecha regreso</label>
 											<div class="col-sm-3">				
-												<input type="date" name="fechaRegreso" id="fechaRegreso" class="form-control">
+												<input type="text" name="fechaRegreso" id="fechaRegreso" class="form-control">
 											</div>
 										</div>
 
@@ -217,6 +218,7 @@
 										</div>
 
 									</form>
+									<div id='mensajeBusqueda'></div>
 								</div>
 								<div class="modal-footer">
 								<button type="button" class="btn btn-default" data-dismiss="modal">Cancelar</button>
@@ -228,37 +230,37 @@
 		<?php
 			}
 		 ?>
-
-		<br><br><br>
-		<div class="container-fluid">
-			<div class="row">
-				<div  class="col-md-6 col-md-offset-3">
-					<h1 class='centrado' data-sr="move 300px , enter top, over 0.5s, reset" ><b>Reserva ahora en los mejores lugares</b></h1>
-					<img src="images/img2.png" class="img-responsive" data-sr="wait 0.5s, enter left, reset, scale up 20%" alt="">	
+		<div id="contenedor">	
+			<br><br><br>
+			<div class="container-fluid">
+				<div class="row">
+					<div  class="col-md-6 col-md-offset-3">
+						<h1 class='centrado' data-sr="move 300px , enter top, over 0.5s, reset" ><b>Reserva ahora en los mejores lugares</b></h1>
+						<img src="images/img2.png" class="img-responsive" data-sr="wait 0.5s, enter left, reset, scale up 20%" alt="">	
+					</div>
 				</div>
 			</div>
-		</div>
 
-		<br><br><br><br><br><br><br><br><br>
+			<br><br><br><br><br><br><br><br><br>
 
-		<div class="row" >
-			<div  class="col-md-6 col-md-offset-3">
-				<h1 class='centrado' data-sr="move 150px , enter top, over 0.5s, reset" ><b>Los mejores precios de la web</b></h1>
-				<img src="images/img1.png" class="img-responsive" data-sr="wait 0.5s, enter left, reset, scale up 20%" alt="">
+			<div class="row" >
+				<div  class="col-md-6 col-md-offset-3">
+					<h1 class='centrado' data-sr="move 150px , enter top, over 0.5s, reset" ><b>Los mejores precios de la web</b></h1>
+					<img src="images/img1.png" class="img-responsive" data-sr="wait 0.5s, enter left, reset, scale up 20%" alt="">
+				</div>
 			</div>
-		</div>
 
-		<br><br><br><br><br><br><br><br><br>
+			<br><br><br><br><br><br><br><br><br>
 
-		<div class="row" >
-			<div  class="col-md-6 col-md-offset-3">
-				<h1 class='centrado' data-sr="move 150px , enter top, over 0.5s, reset" ><b>Vive las mejores experiencias</b></h1>
-				<img src="images/img3.png" class="img-responsive" data-sr="wait 0.5s, enter left, reset, scale up 20%" alt="">
+			<div class="row" >
+				<div  class="col-md-6 col-md-offset-3">
+					<h1 class='centrado' data-sr="move 150px , enter top, over 0.5s, reset" ><b>Vive las mejores experiencias</b></h1>
+					<img src="images/img3.png" class="img-responsive" data-sr="wait 0.5s, enter left, reset, scale up 20%" alt="">
+				</div>
 			</div>
+			
+			<br><br><br><br><br><br><br><br><br>
 		</div>
-		
-		<br><br><br><br><br><br><br><br><br>
-
 	</div>
 
 	<footer data-sr="enter bottom, move 50px, wait 0.3s, reset">
@@ -282,6 +284,9 @@
 			
 		</div>
 	</footer>
+
+	
+	
 
 
 	<script src="js/jquery.js"></script>
