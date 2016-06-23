@@ -1,6 +1,15 @@
 <?php 
-	
-	include 'conexionMysql.php';
+	//Conexion para usuario
+	$servername = "localhost";
+    $username = "root";
+    $password = "root";
+	$database = "agenciadeviajes";
+	  
+	// Create connection
+	$conn = new mysqli($servername, $username, $password, $database);
+	if ($conn->connect_error) {
+	   die("Connection failed: " . $conn->connect_error);
+	}
 
 	$correo = $_POST["emailReg"];
 	$password = $_POST["passwordReg"];

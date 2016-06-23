@@ -6,7 +6,7 @@
 	
     //WebService Hotel
 	
-    	$clienteHotel = new nusoap_client("http://localhost/webServiceHotel/webService.php");
+    	$clienteHotel = new nusoap_client("http://192.168.33.130/webServiceHotel/webService.php");
 
     	$errorHotel = $clienteHotel->getError();
     	if($errorHotel){
@@ -45,17 +45,14 @@
                     $json["error"] = array("mensaje" => "No hay hoteles disponibles. Vuelve a consultar mas tarde.");
                     $bandera = false;
                 }
-    
-                //echo $resultadoHotel;
-                
-              
+                //echo $resultadoHotel; 
             }
         }
     
     //Web service Vuelo    
         if($bandera){
             //Si hay vuelo se procede a checar vuelos
-            $clienteVuelo = new nusoap_client("http://localhost/webServiceVuelo/webService.php");
+            $clienteVuelo = new nusoap_client("http://148.211.85.115/webServiceVuelo/webService.php");
 
             $errorVuelo = $clienteVuelo->getError();
             if($errorVuelo){
@@ -94,7 +91,7 @@
     //Web service actividad
         if($bandera){
             //Si hay vuelo y hotel se procede a checar actividades
-            $clienteActividad = new nusoap_client("http://localhost/webServiceActividad/webService.php");
+            $clienteActividad = new nusoap_client("http://148.211.87.152/webServiceActividad/webService.php");
 
             $errorActividad = $clienteActividad->getError();
             if($errorActividad){
